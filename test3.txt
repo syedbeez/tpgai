@@ -1,1 +1,2 @@
-"hi guys i am second file" 
+The exact terminal command you are looking for is git push origin main, which uploads your local commits to your remote repository.
+Here is a quick breakdown of how to use it and how to fix common errors if the command fails:r̥
